@@ -1,0 +1,6 @@
+F:\vi\ADO.NET\162000128_162000244_De1_cuoiKy\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\vi\ADO.NET\162000128_162000244_De1_cuoiKy\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\vi\ADO.NET\162000128_162000244_De1_cuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\vi\ADO.NET\162000128_162000244_De1_cuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\vi\ADO.NET\162000128_162000244_De1_cuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\vi\ADO.NET\162000128_162000244_De1_cuoiKy\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
